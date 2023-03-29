@@ -1,0 +1,52 @@
+|source|emotion|counts
+0|CARER|anger|2709
+1|CARER|fear|2373
+2|CARER|joy|6761
+3|CARER|love|1641
+4|CARER|sadness|5797
+5|CARER|surprise|719
+6|GoEmotions|admiration|17131
+7|GoEmotions|amusement|9245
+8|GoEmotions|anger|8084
+9|GoEmotions|annoyance|13618
+10|GoEmotions|approval|17620
+11|GoEmotions|caring|5999
+12|GoEmotions|confusion|7359
+13|GoEmotions|curiosity|9692
+14|GoEmotions|desire|3817
+15|GoEmotions|disappointment|8469
+16|GoEmotions|disapproval|11424
+17|GoEmotions|disgust|5301
+18|GoEmotions|embarrassment|2476
+19|GoEmotions|excitement|5629
+20|GoEmotions|fear|3197
+21|GoEmotions|gratitude|11625
+22|GoEmotions|grief|673
+23|GoEmotions|joy|7983
+24|GoEmotions|love|8191
+25|GoEmotions|nervousness|1810
+26|GoEmotions|neutral|55298
+27|GoEmotions|optimism|8715
+28|GoEmotions|pride|1302
+29|GoEmotions|realization|8785
+30|GoEmotions|relief|1289
+31|GoEmotions|remorse|2525
+32|GoEmotions|sadness|6758
+33|GoEmotions|surprise|5514
+34|ISEAR|anger|1086
+35|ISEAR|disgust|1075
+36|ISEAR|fear|1087
+37|ISEAR|guilt|1067
+38|ISEAR|joy|1090
+39|ISEAR|sadness|1082
+40|ISEAR|shame|1062
+41|SemEval2019 Task3|anger|5954
+42|SemEval2019 Task3|joy|4669
+43|SemEval2019 Task3|others|21963
+44|SemEval2019 Task3|sadness|5838
+45|TEC|anger|1546
+46|TEC|disgust|761
+47|TEC|fear|2808
+48|TEC|joy|8219
+49|TEC|sadness|3824
+50|TEC|surprise|3847
