@@ -4,6 +4,13 @@ import streamlit as st
 import time
 #import locale
 import base64
+import subprocess
+import sys
+
+def install(package):
+    subprocess.check_call([sys.executable, "-m", "pip", "install", package])
+
+install("streamlit-aggrid")
 
 #locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 #locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
