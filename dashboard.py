@@ -2,11 +2,11 @@ import altair as alt
 import pandas as pd
 import streamlit as st
 import time
-import locale
+#import locale
 import base64
 
 #locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
-locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
+#locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
 
 # import panel as pn
 # pn.extension('vega')
