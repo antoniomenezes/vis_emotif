@@ -10,8 +10,8 @@ import sys
 def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
-install("streamlit-aggrid")
-install("plotly")
+#install("streamlit-aggrid")
+#install("plotly")
 
 #locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 #locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
@@ -21,13 +21,25 @@ install("plotly")
 
 # É necessário instalar a biblioteca streamlit-aggrid, conforme abaixo
 # pip install streamlit-aggrid
-from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode, JsCode
-#from streamlit_option_menu import option_menu
+try:
+    from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode, JsCode
+    #from streamlit_option_menu import option_menu
+except:
+    install("streamlit-aggrid")
+    from st_aggrid import GridOptionsBuilder, AgGrid, GridUpdateMode, DataReturnMode, JsCode
+
 import streamlit.components.v1 as components
 
-import plotly.io as pio
-import plotly.express as px
-import plotly.graph_objects as go
+try:
+    import plotly.io as pio
+    import plotly.express as px
+    import plotly.graph_objects as go
+except:
+    install("plotly")
+    import plotly.io as pio
+    import plotly.express as px
+    import plotly.graph_objects as go
+
 
 #import plotly.plotly as py
 from plotly.graph_objs import *
