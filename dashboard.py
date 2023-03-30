@@ -6,6 +6,16 @@ import time
 import base64
 import subprocess
 import sys
+from os.path import exists
+import zipfile
+
+if not exists("./data/goemotions_no_text_stats.csv") and exists("./data/goemotions_no_text_stats.zip"):
+    with zipfile.ZipFile('./data/goemotions_no_text_stats.zip', 'r') as zip_ref:
+        zip_ref.extractall('./data')
+
+if not exists("./data/source_emotion_path_levels.csv") and exists("./data/source_emotion_path_levels.zip"):
+    with zipfile.ZipFile('./data/source_emotion_path_levels.zip', 'r') as zip_ref:
+        zip_ref.extractall('./data')
 
 def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
@@ -44,7 +54,6 @@ except:
 #import plotly.plotly as py
 from plotly.graph_objs import *
 #py.sign_in('username', 'api_key')
-
 
 pio.templates.default = "simple_white"
 
