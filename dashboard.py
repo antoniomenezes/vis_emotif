@@ -11,6 +11,7 @@ def install(package):
     subprocess.check_call([sys.executable, "-m", "pip", "install", package])
 
 install("streamlit-aggrid")
+install("plotly")
 
 #locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 #locale.setlocale(locale.LC_ALL, 'pt_BR.UTF-8')
