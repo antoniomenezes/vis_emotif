@@ -1,0 +1,148 @@
+source|emotion|ent_text|ent_type|count
+TEC|joy|JESUS|PERSON|49
+TEC|surprise|TWITTER|PRODUCT|43
+GoEmotions|annoyance|REDDIT|NORP|38
+GoEmotions|gratitude|REDDIT|NORP|36
+GoEmotions|annoyance|AMERICA|GPE|36
+GoEmotions|approval|REDDIT|NORP|35
+GoEmotions|excitement|NEW YEAR|EVENT|35
+SemEval2019 Task3|sadness|ENGLISH|LANGUAGE|35
+GoEmotions|admiration|REDDIT|NORP|33
+SemEval2019 Task3|joy|INDIA|GPE|33
+GoEmotions|admiration|YOUTUBE|ORG|32
+GoEmotions|approval|AMERICA|GPE|31
+TEC|joy|ENGLISH|LANGUAGE|31
+GoEmotions|disapproval|AMERICA|GPE|30
+TEC|fear|UN|ORG|30
+GoEmotions|gratitude|NEW YEAR|EVENT|30
+GoEmotions|amusement|REDDIT|NORP|29
+GoEmotions|annoyance|CANADA|GPE|28
+TEC|joy|XMAS|ORG|26
+TEC|surprise|UN|ORG|25
+GoEmotions|admiration|CANADA|GPE|25
+GoEmotions|curiosity|REDDIT|NORP|24
+GoEmotions|approval|YOUTUBE|ORG|24
+GoEmotions|joy|NEW YEAR|EVENT|23
+GoEmotions|disapproval|REDDIT|NORP|23
+GoEmotions|curiosity|CANADA|GPE|23
+GoEmotions|realization|UK|GPE|23
+SemEval2019 Task3|anger|ENGLISH|LANGUAGE|23
+GoEmotions|surprise|REDDIT|NORP|20
+SemEval2019 Task3|anger|INDIA|GPE|20
+SemEval2019 Task3|anger|MICROSOFT|ORG|20
+GoEmotions|disapproval|AMERICAN|NORP|18
+GoEmotions|joy|REDDIT|NORP|18
+GoEmotions|curiosity|AMERICA|GPE|17
+GoEmotions|realization|AMERICA|GPE|17
+SemEval2019 Task3|joy|ENGLISH|LANGUAGE|17
+GoEmotions|anger|CANADA|GPE|17
+GoEmotions|anger|AMERICA|GPE|17
+GoEmotions|love|REDDIT|NORP|16
+TEC|anger|M. NIXON|PERSON|16
+GoEmotions|realization|YOUTUBE|ORG|16
+GoEmotions|disappointment|CANADA|GPE|16
+TEC|sadness|UN|ORG|15
+GoEmotions|optimism|NEW YEAR|EVENT|15
+GoEmotions|optimism|AMERICA|GPE|15
+ISEAR|shame|CHINA|GPE|15
+TEC|fear|PAUL|PERSON|15
+GoEmotions|sadness|AMERICA|GPE|15
+GoEmotions|disappointment|ENGLISH|LANGUAGE|15
+GoEmotions|joy|ENJOY|PERSON|14
+GoEmotions|love|YOUTUBE|ORG|14
+GoEmotions|remorse|AMERICA|GPE|14
+TEC|surprise|BEN|PERSON|14
+GoEmotions|disappointment|AMERICA|GPE|14
+ISEAR|joy|UNZA|ORG|14
+GoEmotions|excitement|REDDIT|NORP|14
+GoEmotions|anger|REDDIT|NORP|13
+GoEmotions|confusion|FLORIDA|GPE|13
+GoEmotions|confusion|CANADA|GPE|13
+GoEmotions|disgust|CANADA|GPE|12
+TEC|sadness|HARRY POTTER|PERSON|12
+GoEmotions|confusion|ENGLISH|LANGUAGE|12
+GoEmotions|optimism|REDDIT|NORP|12
+SemEval2019 Task3|joy|INDIAN|NORP|11
+GoEmotions|gratitude|YOUTUBE|ORG|11
+GoEmotions|sadness|CANADA|GPE|11
+GoEmotions|caring|AMERICA|GPE|11
+GoEmotions|disgust|AMERICA|GPE|11
+GoEmotions|love|CHINESE|NORP|11
+GoEmotions|remorse|ENGLISH|LANGUAGE|11
+GoEmotions|sadness|REDDIT|NORP|11
+ISEAR|joy|ENGLISH|LANGUAGE|11
+ISEAR|shame|ENGLISH|LANGUAGE|10
+TEC|fear|MUSLIM|NORP|10
+GoEmotions|amusement|THE OFFICE|ORG|10
+GoEmotions|amusement|USA|GPE|10
+ISEAR|disgust|ENGLISH|LANGUAGE|10
+GoEmotions|remorse|REDDIT|NORP|10
+ISEAR|joy|CHINESE|NORP|10
+GoEmotions|surprise|YOUTUBE|ORG|10
+GoEmotions|excitement|NEW YEARS|EVENT|9
+GoEmotions|desire|AMERICA|GPE|9
+GoEmotions|surprise|CHINESE|NORP|8
+GoEmotions|embarrassment|ENGLISH|LANGUAGE|8
+GoEmotions|caring|REDDIT|NORP|8
+GoEmotions|desire|FLORIDA|GPE|7
+ISEAR|fear|BUSH|PERSON|7
+TEC|sadness|TWITTER|PERSON|7
+ISEAR|sadness|ENGLISH|LANGUAGE|7
+ISEAR|sadness|CHINA|GPE|7
+GoEmotions|desire|REDDIT|NORP|7
+SemEval2019 Task3|sadness|INDIA|GPE|7
+ISEAR|anger|ENGLISH|LANGUAGE|7
+GoEmotions|caring|CANADA|GPE|7
+GoEmotions|embarrassment|REDDIT|NORP|6
+GoEmotions|disgust|PEPSI|ORG|6
+CARER|sadness|LONDON|GPE|6
+CARER|joy|ENGLISH|LANGUAGE|6
+CARER|sadness|AMERICAN|NORP|6
+CARER|joy|UK|GPE|6
+GoEmotions|fear|DISNEY|ORG|6
+GoEmotions|pride|YOUTUBE|ORG|6
+GoEmotions|pride|REDDIT|NORP|5
+ISEAR|sadness|ENGLISH|NORP|5
+CARER|anger|CHRISTIAN|NORP|5
+CARER|sadness|CHRISTIAN|NORP|5
+GoEmotions|fear|IRELAND|GPE|5
+GoEmotions|pride|BRITISH|NORP|5
+GoEmotions|fear|SHALLOW HAL|PERSON|5
+GoEmotions|relief|YOUTUBE|ORG|4
+TEC|anger|FRENCH|NORP|4
+GoEmotions|embarrassment|AMERICA|GPE|4
+CARER|fear|ENGLISH|LANGUAGE|4
+SemEval2019 Task3|sadness|ENGLISH|NORP|4
+ISEAR|anger|SOUTH AFRICA|GPE|4
+CARER|joy|CHRISTIAN|NORP|4
+ISEAR|anger|UNZA|ORG|4
+ISEAR|disgust|T.V|GPE|4
+GoEmotions|nervousness|DISNEY WORLD/LAND|ORG|4
+CARER|love|AMERICAN|NORP|4
+GoEmotions|nervousness|NYE|ORG|4
+GoEmotions|nervousness|SEC|ORG|3
+TEC|anger|MICHAEL|PERSON|3
+GoEmotions|relief|HOUSE FREEDOM CAUCUS|ORG|3
+GoEmotions|relief|IRELAND|GPE|3
+GoEmotions|grief|ARGENTINA|GPE|3
+ISEAR|guilt|ENGLISH|LANGUAGE|3
+ISEAR|fear|ITALY|GPE|3
+ISEAR|disgust|T.V.|ORG|3
+ISEAR|fear|AUCKLAND|GPE|3
+ISEAR|guilt|CHRISTIAN|NORP|3
+CARER|love|CHINESE|NORP|3
+TEC|disgust|JESUS|PERSON|3
+TEC|disgust|JUSTIN BIEBER|PERSON|3
+GoEmotions|grief|ZOEY|PERSON|3
+ISEAR|shame|CHINESE|NORP|3
+TEC|disgust|TEXAS|GPE|2
+GoEmotions|grief|LAPORTE|GPE|2
+ISEAR|guilt|FRANCE|GPE|2
+CARER|love|JESUS|PERSON|2
+CARER|anger|SINGAPORE|GPE|2
+CARER|anger|UN|ORG|2
+CARER|fear|CHINA|GPE|2
+CARER|fear|LONDON|GPE|2
+CARER|surprise|KOREAN|NORP|1
+CARER|surprise|NON KOREAN|NORP|1
+CARER|surprise|NEW ZEALAND|GPE|1
