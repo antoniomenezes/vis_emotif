@@ -413,7 +413,7 @@ def get_table_for_pearson(dataset_name, heatmap_relation, table_name):
             columns = isear_labels
         elif dataset_name == 'TEC':
             columns = tec_labels
-        elif dataset_dir == 'SemEval2019 Task3':
+        elif dataset_name == 'SemEval2019 Task3':
             columns = se_labels
 
         if heatmap_relation == 'Emotions + emotions (NRC)':
